@@ -1,6 +1,7 @@
 # Hello 👋, I'm David Kasilia :technologist:
 
-![kasilia](https://user-images.githubusercontent.com/83514256/184357781-18092879-aa44-442c-85cb-5bf738782ebc.png)
+![kasilia fix](https://user-images.githubusercontent.com/83514256/184364086-ea5fb9c3-0e43-4924-a981-5990f868da44.png)
+
 
 I am A Software Developer 🖥️, Currently studying at Microverse. I develop android applications using Kotlin as a programming Language. I am passionate about developing software. Some of the programming languages I am familiar with include: Kotlin, JavaScript, HTML, and CSS. I am skilling up to become a Full-Stack developer which has always been my dream.
 
