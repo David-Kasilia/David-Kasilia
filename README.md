@@ -4,7 +4,7 @@
 
 
 ## About Me 
-I am David from Nairobi, Kenya. I'm a remote Software Developer 🖥️, Currently studying at Microverse. I develop android applications using Kotlin as one of my favorite programming languages. I am passionate about developing software. Some of the programming languages I am familiar with include: Kotlin, JavaScript, HTML, and CSS. I am skilling up to become a Full-Stack developer which has always been my dream.
+I am David from Nairobi, Kenya. I'm a remote Software Developer 🖥️, Currently studying at Microverse. I develop android applications using Kotlin as one of my favorite programming languages. I am passionate about developing software. Some of the programming languages I am familiar with include: Kotlin, JavaScript, HTML, and CSS. I am skilling up to become a Full-Stack developer which has always been my dream. I'm open to new remote job opportunities.
 
 ## Skills and Experience
 <ul>
