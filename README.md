@@ -1,12 +1,12 @@
-# Hello 👋, I'm David Kasilia :technologist:
+# Hello 👋, I'm David Kasilia :man_technologist:
 
 ![kasilia fix](https://user-images.githubusercontent.com/83514256/184364086-ea5fb9c3-0e43-4924-a981-5990f868da44.png)
 
 
-## About Me 
-I am David from Nairobi, Kenya. I'm a remote Software Developer 🖥️, Currently studying at Microverse. I develop android applications using Kotlin as one of my favorite programming languages. I am passionate about developing software. Some of the programming languages I am familiar with include: Kotlin, JavaScript, HTML, and CSS. I am skilling up to become a Full-Stack developer which has always been my dream. I'm open to new remote job opportunities.
+## About Me :slightly_smiling_face:
+I am David from Nairobi Kenya. I'm a remote Software Developer 🖥️, Currently studying at Microverse. I develop android applications using Kotlin as one of my favorite programming languages. I am passionate about developing software. Some of the programming languages I am familiar with include: Kotlin, JavaScript, HTML, and CSS. I am skilling up to become a Full-Stack developer which has always been my dream. I'm open to new remote job opportunities.
 
-## Skills and Experience
+## Skills :dart: and Experience :desktop_computer:
 <ul>
 <li>JavaScript</li>
 <li>CSS</li>
@@ -23,19 +23,19 @@ I am David from Nairobi, Kenya. I'm a remote Software Developer 🖥️, Current
 </ul>
 
 
-## Most Used Languages
+## Most Used Languages :atom:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Kasilia)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## My Github Stats
+## My Github Stats :date:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Kasilia&show_icons=true)  
 
 
-## My Contributions Graph
+## My Contributions Graph :chart_with_upwards_trend:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=David-Kasilia) 
 
 
-## My Streak Stats
+## My Streak Stats :bar_chart:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=David-Kasilia)  
 
 
