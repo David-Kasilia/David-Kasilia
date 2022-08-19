@@ -23,9 +23,6 @@ I am David from Nairobi, Kenya. I'm a remote Software Developer 🖥️, Current
 </ul>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/David-Kasilia)  
-
-
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Kasilia)](https://github.com/anuraghazra/github-readme-stats)
 
