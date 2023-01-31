@@ -1,27 +1,32 @@
-# Hello 👋, I'm David Kasilia :man_technologist:
+<h1 align="center">Hi 👋, I'm David Kasilia Mwanzia :man_technologist: </h1>
 
-![kasilia fix](https://user-images.githubusercontent.com/83514256/184364086-ea5fb9c3-0e43-4924-a981-5990f868da44.png)
-
+![1](https://user-images.githubusercontent.com/83514256/215893304-61b01abc-7a65-4a07-a371-4a48e17cfb9d.png)
 
 ## About Me :slightly_smiling_face:
-I am David from Nairobi Kenya. I'm a remote Software Developer 🖥️, Currently studying at Microverse. I develop android applications using Kotlin as one of my favorite programming languages. I am passionate about developing software. Some of the programming languages I am familiar with include: Kotlin, JavaScript, HTML, and CSS. I am skilling up to become a Full-Stack developer which has always been my dream. I'm open to new remote job opportunities.
+> Hello! I’m David Kasilia from Nairobi Kenya. I am a full-stack web developer and an associate android developer. I am currently studying with Microverse, an online international remote software development school. I’ve studied with Google Africa Developers Scholarship for one year as an Associate Android Developer using Kotlin as an object-oriented language to build android applications. I am more passionate about creating a high-user interface and giving the best user experience in any website or android application I build. Some of the programming languages I am familiar with include: Kotlin, JavaScript, HTML, Ruby and CSS. I'm open to new remote job opportunities.
 
-## Skills :dart: and Experience :desktop_computer:
-<ul>
-<li>JavaScript</li>
-<li>CSS</li>
-<li>HTML</li>
-<li>Kotlin</li>
-</ul>
+> In my free time, I like drawing art or graffiti, listening to music, gaming, or watching movies.
 
-## Connect :telephone_receiver: With Me Around The Web :earth_africa::
-<ul>
-<li>Find Me On Github: <a href="https://github.com/David-Kasilia">Link To Github Profile</a></li>
-<li>Connect With Me On Linkedin: <a href="https://www.linkedin.com/in/david-kasilia-846241211/">Link To Linkedin Profile</a></li>
-<li>Contact Me On Twitter: <a href="https://twitter.com/DavidKasilia">Link To Twitter Profile</a></li>
-<li>Email Me @ <a href="davidkasilia001@gmail.com">davidkasilia001@gmail.com</a></li>
-</ul>
+## Connect :telephone_receiver: with me: :earth_africa:
+<p align="left">
+<a href="https://codepen.io/@videlishious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@videlishious" height="30" width="40" /></a>
+<a href="https://dev.to/@davidkasilia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@davidkasilia" height="30" width="40" /></a>
+<a href="https://twitter.com/davidkasilia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidkasilia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/david-kasilia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-kasilia" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15810668" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15810668" height="30" width="40" /></a>
+<a href="https://instagram.com/@kasiliadavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kasiliadavid" height="30" width="40" /></a>
+<a href="https://dribbble.com/david kasilia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="david kasilia" height="30" width="40" /></a>
+<a href="https://www.behance.net/davidkasilia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="davidkasilia" height="30" width="40" /></a>
+<a href="https://medium.com/@davidkasilia001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidkasilia001" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@davidkasilia001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@davidkasilia001" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/davidkasilia001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="davidkasilia001" height="30" width="40" /></a>
+</p>
 
+## Languages and Tools:
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+## Trophy Case
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-kasilia" alt="david-kasilia" /></a> </p>
 
 ## Most Used Languages :atom:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Kasilia)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,10 +34,6 @@ I am David from Nairobi Kenya. I'm a remote Software Developer 🖥️, Currentl
 
 ## My Github Stats :date:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Kasilia&show_icons=true)  
-
-
-## My Contributions Graph :chart_with_upwards_trend:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=David-Kasilia) 
 
 
 ## My Streak Stats :bar_chart:
